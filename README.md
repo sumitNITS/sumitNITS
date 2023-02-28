@@ -1,6 +1,6 @@
 ### Hi there! 👋 I am Sumit
 
-I am currently working as a DevOps Enginner at [Sify],(https://www.sifytechnologies.com/) understanding and implementing as well as integrating the cutting edge technologies and tools and welcoming the solving problems coming along with it.
+I am currently working as a DevOps Enginner at [Sify](https://www.sifytechnologies.com/), understanding and implementing as well as integrating the cutting edge technologies and tools and welcoming the solving problems coming along with it.
 
 
 
