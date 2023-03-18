@@ -4,10 +4,13 @@
 
 ✨ Do visit my one-stop [LinkFree Web](https://linkfree.eddiehub.io/sumitNITS) for complete background and to connect!
 
+### My Technological Interests Beyond the Screen 💥
 
-
-
-
+- Software Development
+- DevOps Technologies
+- Cloud Technologies
+- Blockchain Technologies
+- Web3 & Cryptocurrencies
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=sumitNITS&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
