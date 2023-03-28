@@ -7,7 +7,7 @@
 
 👨🏽‍💻 I am currently working as a DevOps Enginner at [Sify](https://www.sifytechnologies.com/), Understanding and implementing as well as integrating the cutting edge tools and technologies and welcoming the errors and issues coming along with it.
 
-✨ Do visit my one-stop [LinkFree Web](https://linkfree.eddiehub.io/sumitNITS) for complete background and to connect!
+✨ Do visit my one-stop [LinkFree Web](https://linkfree.eddiehub.io/sumitNITS) for complete background and to connect! 🤝
 
 ### My Technological Interests Beyond the Screen 💥
 
