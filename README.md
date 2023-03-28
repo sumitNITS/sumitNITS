@@ -9,7 +9,7 @@
 
 ✨ Do visit my one-stop [LinkFree Web](https://linkfree.eddiehub.io/sumitNITS) for complete background and to connect! 🤝
 
-<h2 align="left"> My Technological Interests Beyond the Screen 💥 </h2>
+<h2 align="center"> My Technological Interests Beyond the Screen 💥 </h2>
 
 - Software Development
 - DevOps Technologies
