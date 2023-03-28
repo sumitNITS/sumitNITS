@@ -17,7 +17,7 @@
 - Blockchain Technologies
 - Web3 & Cryptocurrencies
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sumitNITS)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sumitNITS&theme=vue)
 
 <!--
 **sumitNITS/sumitNITS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
