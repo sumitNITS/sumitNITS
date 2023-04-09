@@ -10,7 +10,7 @@
 ✨ Do visit my one-stop [LinkFree Web](https://linkfree.eddiehub.io/sumitNITS) for complete background and to connect! 🤝
 
 <h2 align="center"> My Technological Interests Beyond the Screen 💥 </h2>
-<p><img align="right" alt="Working" width="200" src="https://user-images.githubusercontent.com/37767537/230788671-04b5a1e9-cff3-4436-b737-d9615c8d2c6c.gif"></p>
+<p><img align="right" alt="Working" width="250" src="https://user-images.githubusercontent.com/37767537/230788671-04b5a1e9-cff3-4436-b737-d9615c8d2c6c.gif"></p>
 
 - Software Development
 - DevOps Technologies
