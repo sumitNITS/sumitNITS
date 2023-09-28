@@ -5,11 +5,11 @@
 
 <h2 align="center"> Hi there! 👋 I'm Sumit </h2>
 
-👨🏽‍💻 I am currently working as a DevOps Enginner at [Sify](https://www.sifytechnologies.com/), Understanding and implementing as well as integrating the cutting edge tools and technologies and welcoming the errors and issues coming along with it.
+👨🏽‍💻 I am currently working as a DevOps Engineer at [Sify](https://www.sifytechnologies.com/), Understanding and implementing as well as integrating the cutting edge tools and technologies and welcoming the errors and issues coming along with it.
 
 ✨ Do visit my one-stop [LinkFree Web](https://linkfree.eddiehub.io/sumitNITS) for complete background and to connect! 🤝
 
-<h2 align="center"> My Technological Interests Beyond the Screen 😎 </h2>
+<h2 align="center"> Technological Interests 😎 </h2>
 <p><img align="right" alt="Working" width="250" src="https://user-images.githubusercontent.com/37767537/230788671-04b5a1e9-cff3-4436-b737-d9615c8d2c6c.gif"></p>
 
 - Software Development
