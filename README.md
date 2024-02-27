@@ -5,7 +5,7 @@
 
 <h2 align="center"> Hi there! 👋 I'm Sumit </h2>
 
-👨🏽‍💻 A Professional DevOps Engineer who loves implementing as well as integrating cutting edge tools and technologies and welcoming the errors and issues coming along with it.
+👨🏽‍💻 I am a Professional DevOps Engineer who loves implementing as well as integrating cutting edge tools and technologies and welcoming the errors and issues coming along with it.
 
 ✨ Do visit my one-stop [BioDrop](https://www.biodrop.io/sumitNITS) for complete background and to connect! 🤝
 
