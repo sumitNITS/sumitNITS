@@ -5,7 +5,7 @@
 
 <h2 align="center"> Hi there! 👋 I'm Sumit </h2>
 
-👨🏽‍💻 I am currently working as a DevOps Engineer at [Sify](https://www.sifytechnologies.com/), Understanding and implementing as well as integrating the cutting edge tools and technologies and welcoming the errors and issues coming along with it.
+👨🏽‍💻 A Professional DevOps Engineer who loves implementing as well as integrating cutting edge tools and technologies and welcoming the errors and issues coming along with it.
 
 ✨ Do visit my one-stop [BioDrop](https://www.biodrop.io/sumitNITS) for complete background and to connect! 🤝
 
