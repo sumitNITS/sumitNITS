@@ -11,9 +11,7 @@
 <p><img align="right" alt="Working" width="250" src="https://user-images.githubusercontent.com/37767537/230788671-04b5a1e9-cff3-4436-b737-d9615c8d2c6c.gif"></p>
 
 - Cloud & DevOps
-- Full Stack Development
-- Blockchain Technologies
-- AI in Infrastructure
+- AI-Driven Infrastructure Automation
 
 <!-- ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sumitNITS&theme=github-compact)
 
