@@ -1,6 +1,6 @@
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=sumitNITS&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/sumitNITS?label=Followers&style=social" alt="followers-count"> 
+ <!-- <img src="https://img.shields.io/github/followers/sumitNITS?label=Followers&style=social" alt="followers-count">  -->
 </p>
 
 <h2 align="center"> Hi there! 👋 </h2>
